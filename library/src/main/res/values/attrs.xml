@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextFieldBoxes">
+
+        <!--Texts-->
+        <attr name="labelText" format="string" />
+        <attr name="helperText" format="string" />
+
+        <!--Colors-->
+        <attr name="helperTextColor" format="color" />
+        <attr name="counterTextColor" format="color" />
+        <attr name="errorColor" format="color" />
+        <attr name="primaryColor" format="color" />
+        <attr name="secondaryColor" format="color" />
+        <attr name="panelBackgroundColor" format="color" />
+
+        <!--Characters counter-->
+        <attr name="maxCharacters" format="integer" />
+        <attr name="minCharacters" format="integer" />
+
+        <!--Others-->
+        <attr name="enabled" format="boolean" />
+        <attr name="iconSignifier" format="reference" />
+        <attr name="endIcon" format="reference" />
+        <attr name="isResponsiveIconColor" format="boolean" />
+        <attr name="hasClearButton" format="boolean" />
+        <attr name="hasFocus" format="boolean" />
+        <attr name="alwaysShowHint" format="boolean" />
+        <attr name="useDenseSpacing" format="boolean" />
+
+        <!-- Set whether to automaticavalidateErrordate, or only on demand
+               @see {@link TextFieldBoxes#setManualValidateError(boolean) } -->
+        <attr name="manualValidateError" format="boolean" />
+
+    </declare-styleable>
+
+    <declare-styleable name="ExtendedEditText">
+
+        <!--Texts-->
+        <attr name="prefix" format="string" />
+        <attr name="suffix" format="string" />
+
+        <!--Colors-->
+        <attr name="prefixTextColor" format="color" />
+        <attr name="suffixTextColor" format="color" />
+
+    </declare-styleable>
+
+</resources>

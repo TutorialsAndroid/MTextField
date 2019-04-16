@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MTextField</string>
+    <string name="icon">icon</string>
+    <string name="counter_label_text_constructor" formatted="false">%s%s%s%s</string>
+</resources>
