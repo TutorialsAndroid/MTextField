@@ -1,10 +1,10 @@
 # MTextField ![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)
 
-## Library is coming soon
-
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
 
-**Library soon available on JitPack.io**
+**Library available on JitPack.io**
+
+[![](https://jitpack.io/v/TutorialsAndroid/MTextField.svg)](https://jitpack.io/#TutorialsAndroid/MTextField)
 
 ## Important
 
