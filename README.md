@@ -1,7 +1,15 @@
-# TextFieldBoxes
+# MTextField ![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)
 
+## Library is coming soon
 
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
+
+**Library soon available on JitPack.io**
+
+## Important
+
+**Note this library was made in the making for `Kinda` app this library was copied from `TextFieldBoxes` repository on github we made this library because we want to use own library on `Kinda` app.So this library is in development we will monthly
+update this library with some changes.**
 
 
 ## Installation
@@ -280,7 +288,7 @@ textFieldBoxes.setSimpleTextChangeWatcher(new SimpleTextChangedWatcher() {
 
 #### <a id="dark"/>  13. Dark Theme
 
-TextFieldBoxes use the color attributes within the current theme and will automatically change its color to fit the dark theme without additional settings.
+MTextField use the color attributes within the current theme and will automatically change its color to fit the dark theme without additional settings.
 
 #### <a id="validate"/>  14. Manual Validate Error
 
