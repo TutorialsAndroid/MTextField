@@ -11,6 +11,10 @@ A new Material Design text field that comes in a box, based on [Google Material 
 **Note this library was made in the making for `Kinda` app this library was copied from `TextFieldBoxes` repository on github we made this library because we want to use own library on `Kinda` app.So this library is in development we will monthly
 update this library with some changes.**
 
+## Sample Screen
+
+![](https://github.com/TutorialsAndroid/MTextField/blob/master/art/device-2019-04-16-132403.png)
+
 
 ## Installation
 In order to use it, you need to include it in your project.
