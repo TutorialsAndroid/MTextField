@@ -1,4 +1,4 @@
-# MTextField ![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/MTextField/badge.svg?style=flat-squaretargetFile=library%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/MTextField?targetFile=library%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MTextField-blue.svg?style=plastic)](https://android-arsenal.com/details/1/7627)
+# MTextField ![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/MTextField/badge.svg?style=flat-squaretargetFile=library%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/MTextField?targetFile=library%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MTextField-blue.svg?style=plastic)](https://android-arsenal.com/details/1/7627) [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
 
