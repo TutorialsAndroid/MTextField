@@ -2,7 +2,7 @@
 
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
 
-![](https://github.com/TutorialsAndroid/crashx/blob/master/images/WPLink.jpg)
+![](https://github.com/TutorialsAndroid/crashx/blob/master/images/WPLink1.jpg)
 
 **Library available on JitPack.io**
 
