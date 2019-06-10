@@ -6,14 +6,14 @@ INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2
 INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [:library] E:\GithubProjects\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c1362c1cd9ccdc68236f62b0986aae5e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2322242f10d37b95044b48fdbe633d22\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\7306bd76c6f4434cd6d1d9d46b9785ec\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\4a3a2b7db368687f9d49b18fa60bb82e\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\98a7e842f8e07d1f8c222dfe9e4c4fb8\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\6f12c22c887e1c8f4b752ed9d481d03d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\4c6fd420f3df6736c077026ef3472bae\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\0a6e777672767f379935d731ce66ae11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c0e4fbf3845dc2c481192854db3137d6\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\e65677329a8dd24cff08e05dddceebcc\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\0ed82023b1b979429a5b88f16b6b298f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c8fbc7e8fe9357b265a28b140060f5fb\AndroidManifest.xml:17:1-22:12
@@ -23,7 +23,7 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\aksha\
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\89f6c56643fc3f99708fb210254edda3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\8a381a47a80878d7180226cffd82b779\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\15cc3ef6c4e7a932bcace68e6304aa04\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d8adb9fc323425b05f5a2fe59556b198\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\bf4c340aeec8146cea78fee455c9167a\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d6fc268e7ee74ac486b7f1a01ca657c1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\9cd40499abe784e29300c17bcd815f00\AndroidManifest.xml:17:1-22:12
@@ -40,7 +40,7 @@ INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2
 INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:3:5-39
+		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
 		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
 	android:versionName
@@ -59,12 +59,12 @@ MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d8adb9fc323425b05f5a2fe59556b198\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d8adb9fc323425b05f5a2fe59556b198\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\bf4c340aeec8146cea78fee455c9167a\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\bf4c340aeec8146cea78fee455c9167a\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d8adb9fc323425b05f5a2fe59556b198\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -77,10 +77,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ak
 		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:11:9-40
-activity#com.kinda.mtextfieldtest.MainActivity
+activity#com.developer.kinda.mtextfield.MainActivity
 ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:12:19-71
+		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:12:19-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
@@ -99,8 +99,8 @@ MERGED from [:library] E:\GithubProjects\mtextfield\library\build\intermediates\
 MERGED from [:library] E:\GithubProjects\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c1362c1cd9ccdc68236f62b0986aae5e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c1362c1cd9ccdc68236f62b0986aae5e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2322242f10d37b95044b48fdbe633d22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2322242f10d37b95044b48fdbe633d22\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\7306bd76c6f4434cd6d1d9d46b9785ec\AndroidManifest.xml:20:5-44
@@ -113,8 +113,8 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\aksha\.gradl
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\6f12c22c887e1c8f4b752ed9d481d03d\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\4c6fd420f3df6736c077026ef3472bae\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\4c6fd420f3df6736c077026ef3472bae\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\0a6e777672767f379935d731ce66ae11\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\0a6e777672767f379935d731ce66ae11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c0e4fbf3845dc2c481192854db3137d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\c0e4fbf3845dc2c481192854db3137d6\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\e65677329a8dd24cff08e05dddceebcc\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\e65677329a8dd24cff08e05dddceebcc\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\0ed82023b1b979429a5b88f16b6b298f\AndroidManifest.xml:20:5-44
@@ -133,8 +133,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\aksh
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\8a381a47a80878d7180226cffd82b779\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\15cc3ef6c4e7a932bcace68e6304aa04\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\15cc3ef6c4e7a932bcace68e6304aa04\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d8adb9fc323425b05f5a2fe59556b198\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d8adb9fc323425b05f5a2fe59556b198\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\bf4c340aeec8146cea78fee455c9167a\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\bf4c340aeec8146cea78fee455c9167a\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\d6fc268e7ee74ac486b7f1a01ca657c1\AndroidManifest.xml:20:5-44

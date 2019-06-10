@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kinda.mtextfield.test" >
+    package="com.developer.kinda.test" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="29" />
 
     <instrumentation
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.kinda.mtextfield.test"
-        android:targetPackage="com.kinda.mtextfield.test" />
+        android:label="Tests for com.developer.kinda.test"
+        android:targetPackage="com.developer.kinda.test" />
 
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kinda.mtextfield"
-    android:versionCode="3"
-    android:versionName="2.0.19" >
+    package="com.developer.kinda"
+    android:versionCode="4"
+    android:versionName="3.0.19" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="29" />
 
 </manifest>

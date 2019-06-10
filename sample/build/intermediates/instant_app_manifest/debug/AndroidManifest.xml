@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kinda.mtextfieldtest"
+    package="com.developer.kinda.mtextfield"
     android:targetSandboxVersion="2"
-    android:versionCode="3"
-    android:versionName="2.0.19" >
+    android:versionCode="4"
+    android:versionName="3.0.19" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="29" />
 
     <application
@@ -19,7 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.kinda.mtextfieldtest.MainActivity" >
+        <activity android:name="com.developer.kinda.mtextfield.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -29,7 +29,7 @@
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.kinda.mtextfieldtest.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.developer.kinda.mtextfield.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
