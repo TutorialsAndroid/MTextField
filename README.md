@@ -5,6 +5,7 @@ A new Material Design text field that comes in a box, based on [Google Material 
 **Library available on JitPack.io**
 
 [![](https://jitpack.io/v/TutorialsAndroid/MTextField.svg)](https://jitpack.io/#TutorialsAndroid/MTextField)
+`Version 16.4.19 is deprecated use latest version v3.0.19`
 
 ## Sample Screen
 
@@ -24,7 +25,7 @@ allprojects {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.TutorialsAndroid:MTextField:16.4.19'
+    implementation 'com.github.TutorialsAndroid:MTextField:v3.0.19'
 }
 ```
 
