@@ -61,8 +61,8 @@
         <attr format="string" name="helperText"/>
 
         <!--Colors-->
-        <attr format="color" name="helperTextColor"/>
-        <attr format="color" name="counterTextColor"/>
+        <attr format="color" name="textHelperColor"/>
+        <attr format="color" name="textCounterColor"/>
         <attr format="color" name="errorColor"/>
         <attr format="color" name="primaryColor"/>
         <attr format="color" name="secondaryColor"/>

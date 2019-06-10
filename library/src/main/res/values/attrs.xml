@@ -8,8 +8,8 @@
         <attr name="helperText" format="string" />
 
         <!--Colors-->
-        <attr name="helperTextColor" format="color" />
-        <attr name="counterTextColor" format="color" />
+        <attr name="textHelperColor" format="color" />
+        <attr name="textCounterColor" format="color" />
         <attr name="errorColor" format="color" />
         <attr name="primaryColor" format="color" />
         <attr name="secondaryColor" format="color" />

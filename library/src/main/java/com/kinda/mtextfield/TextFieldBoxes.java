@@ -8,13 +8,12 @@ import android.graphics.PorterDuff;
 import android.graphics.PorterDuffColorFilter;
 import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
-import android.support.annotation.Nullable;
-import android.support.v4.content.ContextCompat;
-import android.support.v4.view.ViewCompat;
-import android.support.v4.widget.Space;
-import android.support.v4.widget.TextViewCompat;
-import android.support.v7.widget.AppCompatImageButton;
-import android.support.v7.widget.AppCompatTextView;
+import androidx.annotation.Nullable;
+import androidx.core.content.ContextCompat;
+import androidx.core.view.ViewCompat;
+import androidx.core.widget.TextViewCompat;
+import androidx.appcompat.widget.AppCompatImageButton;
+import androidx.appcompat.widget.AppCompatTextView;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
@@ -26,6 +25,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
+import android.widget.Space;
 import android.widget.TextView;
 
 import java.lang.reflect.Field;
@@ -484,9 +484,9 @@ public class TextFieldBoxes extends FrameLayout {
 
             /* Colors */
             this.helperTextColor = styledAttrs
-                    .getInt(R.styleable.TextFieldBoxes_helperTextColor, DEFAULT_TEXT_COLOR);
+                    .getInt(R.styleable.TextFieldBoxes_textHelperColor, DEFAULT_TEXT_COLOR);
             this.counterTextColor = styledAttrs
-                    .getInt(R.styleable.TextFieldBoxes_counterTextColor, DEFAULT_TEXT_COLOR);
+                    .getInt(R.styleable.TextFieldBoxes_textCounterColor, DEFAULT_TEXT_COLOR);
             this.errorColor = styledAttrs
                     .getInt(R.styleable.TextFieldBoxes_errorColor, DEFAULT_ERROR_COLOR);
             this.primaryColor = styledAttrs

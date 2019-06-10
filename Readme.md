@@ -1,8 +1,14 @@
-# TextFieldBoxes
-
+# MTextField ![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/MTextField/badge.svg?style=flat-squaretargetFile=library%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/MTextField?targetFile=library%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MTextField-blue.svg?style=plastic)](https://android-arsenal.com/details/1/7627) [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
 
+**Library available on JitPack.io**
+
+[![](https://jitpack.io/v/TutorialsAndroid/MTextField.svg)](https://jitpack.io/#TutorialsAndroid/MTextField)
+
+## Sample Screen
+
+![](https://github.com/TutorialsAndroid/MTextField/blob/master/art/device-2019-04-16-132403.png)
 
 ## Installation
 In order to use it, you need to include it in your project.
@@ -280,7 +286,7 @@ textFieldBoxes.setSimpleTextChangeWatcher(new SimpleTextChangedWatcher() {
 
 #### <a id="dark"/>  13. Dark Theme
 
-TextFieldBoxes use the color attributes within the current theme and will automatically change its color to fit the dark theme without additional settings.
+MTextField use the color attributes within the current theme and will automatically change its color to fit the dark theme without additional settings.
 
 #### <a id="validate"/>  14. Manual Validate Error
 
