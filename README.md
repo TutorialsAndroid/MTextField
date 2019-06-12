@@ -1,11 +1,11 @@
-# MTextField ![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/MTextField/badge.svg?style=flat-squaretargetFile=library%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/MTextField?targetFile=library%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MTextField-blue.svg?style=plastic)](https://android-arsenal.com/details/1/7627) [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
+# MTextField ![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/MTextField/badge.svg?style=flat-squaretargetFile=library%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/MTextField?targetFile=library%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MTextField-blue.svg?style=plastic)](https://android-arsenal.com/details/1/7627) [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
 
 **Library available on JitPack.io**
 
 [![](https://jitpack.io/v/TutorialsAndroid/MTextField.svg)](https://jitpack.io/#TutorialsAndroid/MTextField)
-`Version 16.4.19 is deprecated use latest version v3.0.19`
+`Version 16.4.19 is deprecated use latest version v4.0.19`
 
 ## Sample Screen
 
@@ -25,7 +25,7 @@ allprojects {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.TutorialsAndroid:MTextField:v3.0.19'
+    implementation 'com.github.TutorialsAndroid:MTextField:v4.0.19'
 }
 ```
 
@@ -49,22 +49,22 @@ dependencies {
 
 #### <a id="basic"/>  1. Basic
 
-Add `com.developer.kinda.TextFieldBoxes` that contains a `com.developer.kinda.ExtendedEditText` to your layout:
+Add `com.developer.mtextfield.TextFieldBoxes` that contains a `com.developer.mtextfield.ExtendedEditText` to your layout:
 
 ```xml
 ...
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     android:id="@+id/text_field_boxes"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     app:labelText="Label">
 
-    <com.developer.kinda.ExtendedEditText
+    <com.developer.mtextfield.ExtendedEditText
         android:id="@+id/extended_edit_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
-</com.developer.kinda.TextFieldBoxes>
+</com.developer.mtextfield.TextFieldBoxes>
 ...
 ```
 
@@ -73,7 +73,7 @@ Add `com.developer.kinda.TextFieldBoxes` that contains a `com.developer.kinda.Ex
 `app:enabled` in xml or `setEnabled(boolean enabled)` in Java.
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:enabled="false"
     >
@@ -86,7 +86,7 @@ _**NOTE:** setting helper or error text to anything **not empty** will make the 
 helper text: `app:helperText` in xml or `setHelperText(String helperText)` in Java.
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:helperText="Helper is here"
     >
@@ -111,14 +111,14 @@ Use `app:prefix` in xml or `setPrefix(String prefix)` in Java to set the unselec
 Use `app:suffix` in xml or `setSuffix(String suffix)` in Java to set the unselectable suffix text at the end of the field.
 
 ```xml
-<com.developer.kinda.ExtendedEditText
+<com.developer.mtextfield.ExtendedEditText
     ...
     app:prefix="$ "
     >
 ```
 
 ```xml
-<com.developer.kinda.ExtendedEditText
+<com.developer.mtextfield.ExtendedEditText
     ...
     app:suffix="\@gmail.com"
     >
@@ -137,7 +137,7 @@ The color of the bottom line will turn to `errorColor` (red by default) when exc
 *NOTE: Space and line feed will NOT count.*
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:maxCharacters="10"
     app:minCharacters="5"
@@ -145,7 +145,7 @@ The color of the bottom line will turn to `errorColor` (red by default) when exc
 ```
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:maxCharacters="5"
     >
@@ -159,7 +159,7 @@ You can use `setIsResponsiveIconColor(boolean isrResponsiveIconColor)` in Java c
 _**NOTE that if `true`, the icon's color will always be `HighlightColor` (the same as the bottomLine) that will turn gray when losing focus. If `false`, the icon will always be in `primaryColor`.**_
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:iconSignifier="@drawable/ic_vpn_key_black_24dp"
     >
@@ -170,7 +170,7 @@ _**NOTE that if `true`, the icon's color will always be `HighlightColor` (the sa
 Use `app:endIcon` in xml or `setEndIcon(Int resourceID)` to set the icon of the ImageButton that is shown at the end of the field if you want there to be one.
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:endIcon="@drawable/ic_mic_black_24dp"
     >
@@ -195,7 +195,7 @@ Use `app:hasClearButton` in xml or `setHasClearButton(boolean hasClearButton)` t
 If `true`, a clear button will be shown at the end when there are characters (**ANY** character) entered in the field.
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:hasClearButton="true"
     >
@@ -214,7 +214,7 @@ If `true`, a clear button will be shown at the end when there are characters (**
 *Panel Background Color* will be used for the color of panel at the back. You can use `app:panelBackgroundColor` in xml or `setPanelBackgroundColor(int colorRes)` in Java. `6% black` by default. *NOTE that the default color, as in the guideline, is the black (`#000000`) color with the transparency of 6%, so when you're customizing and want it to still be transparent you have to set a color with transparency.*
 
 ```xml
-<com.developer.kinda.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:primaryColor="#1B5E20"
     app:errorColor="#ddaa00"
@@ -233,7 +233,7 @@ If `true`, a clear button will be shown at the end when there are characters (**
 
 then set this as the theme for your TextFieldBoxes:
 ```xml
-<com.kinda.developer.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     android:theme="@style/TextFieldBoxes"
     >
@@ -246,7 +246,7 @@ You can make the layout compact by using a dense verticle spacing to improve use
 Use `app:useDenseSpacing` in xml or `setUseDenseSpacing(boolean useDenseSpacing)` to set whether the field uses a dense spacing between its elements.
 
 ```xml
-<com.kinda.developer.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:useDenseSpacing="true"
     >
@@ -259,7 +259,7 @@ Sometimes you may want the label and the hint to show different messages, but ne
 Use `app:alwaysShowHint` in xml or `setAlwaysShowHint(boolean alwaysShowHint)` to set whether the label is fixed at top when there's a hint in the EditText.
 
 ```xml
-<com.kinda.developer.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:alwaysShowHint="true"
     >
@@ -296,7 +296,7 @@ By default, the error state of the field is validated each time the text changes
 Setting `app:manualValidateError` to `true` will make the field validate error only when `validate()` is called.
 
 ```xml
-<com.kinda.developer.TextFieldBoxes
+<com.developer.mtextfield.TextFieldBoxes
     ...
     app:manualValidateError="true"
     >
