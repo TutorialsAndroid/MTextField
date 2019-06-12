@@ -14,14 +14,14 @@
         android:orientation="vertical"
         android:padding="20dp">
 
-        <com.developer.kinda.TextFieldBoxes
+        <com.developer.mtextfield.TextFieldBoxes
             android:id="@+id/text_field_boxes1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:labelText="Title"
             app:maxCharacters="20">
 
-            <com.developer.kinda.ExtendedEditText
+            <com.developer.mtextfield.ExtendedEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:imeOptions="actionNext"
@@ -29,14 +29,14 @@
                 android:maxLines="1"
                 android:text="@string/title" />
 
-        </com.developer.kinda.TextFieldBoxes>
+        </com.developer.mtextfield.TextFieldBoxes>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp">
 
-            <com.developer.kinda.TextFieldBoxes
+            <com.developer.mtextfield.TextFieldBoxes
                 android:id="@+id/text_field_boxes2"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -48,7 +48,7 @@
                 app:hasFocus="false"
                 app:labelText="Price">
 
-                <com.developer.kinda.ExtendedEditText
+                <com.developer.mtextfield.ExtendedEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:imeOptions="actionNext"
@@ -57,9 +57,9 @@
                     android:text="@string/price"
                     app:prefix="$ " />
 
-            </com.developer.kinda.TextFieldBoxes>
+            </com.developer.mtextfield.TextFieldBoxes>
 
-            <com.developer.kinda.TextFieldBoxes
+            <com.developer.mtextfield.TextFieldBoxes
                 android:id="@+id/text_field_boxes3"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -73,7 +73,7 @@
                 app:isResponsiveIconColor="true"
                 app:labelText="Location">
 
-                <com.developer.kinda.ExtendedEditText
+                <com.developer.mtextfield.ExtendedEditText
                     android:id="@+id/extendedEditText"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -85,11 +85,11 @@
                     android:popupElevation="5dp"
                     android:text="" />
 
-            </com.developer.kinda.TextFieldBoxes>
+            </com.developer.mtextfield.TextFieldBoxes>
 
         </LinearLayout>
 
-        <com.developer.kinda.TextFieldBoxes
+        <com.developer.mtextfield.TextFieldBoxes
             android:id="@+id/text_field_boxes4"
             android:layout_width="match_parent"
             android:layout_height="150dp"
@@ -99,12 +99,12 @@
             app:labelText="Description"
             app:maxCharacters="140">
 
-            <com.developer.kinda.ExtendedEditText
+            <com.developer.mtextfield.ExtendedEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/description" />
 
-        </com.developer.kinda.TextFieldBoxes>
+        </com.developer.mtextfield.TextFieldBoxes>
 
         <Button
             android:id="@+id/dark_button"
@@ -113,7 +113,7 @@
             android:layout_marginTop="30dp"
             android:text="@string/dark_side" />
 
-        <com.developer.kinda.TextFieldBoxes
+        <com.developer.mtextfield.TextFieldBoxes
             android:id="@+id/text_field_boxes5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -121,14 +121,14 @@
             android:animateLayoutChanges="true"
             app:labelText="Coupon Code">
 
-            <com.developer.kinda.ExtendedEditText
+            <com.developer.mtextfield.ExtendedEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:imeOptions="actionNext"
                 android:inputType="text"
                 android:maxLines="1"
                 android:text="@string/coupon_code" />
-        </com.developer.kinda.TextFieldBoxes>
+        </com.developer.mtextfield.TextFieldBoxes>
 
         <Button
             android:id="@+id/error_button"
@@ -138,7 +138,7 @@
             android:text="@string/test_error" />
 
 
-        <com.developer.kinda.TextFieldBoxes
+        <com.developer.mtextfield.TextFieldBoxes
             android:id="@+id/text_field_boxes6"
             android:layout_marginTop="16dp"
             android:layout_width="match_parent"
@@ -147,7 +147,7 @@
             app:hasFocus="true"
             app:isResponsiveIconColor="true">
 
-            <com.developer.kinda.ExtendedEditText
+            <com.developer.mtextfield.ExtendedEditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:imeOptions="actionNext"
@@ -156,7 +156,7 @@
                 android:maxLines="1"
                 android:text="@string/very_long_password_string" />
 
-        </com.developer.kinda.TextFieldBoxes>
+        </com.developer.mtextfield.TextFieldBoxes>
 
         <Button
             android:id="@+id/clear_icon_button"

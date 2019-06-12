@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [:library] E:\GithubProjects\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [:library] E:\GithubProjects\kindaLibraries\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2322242f10d37b95044b48fdbe633d22\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:2:1-11:12
@@ -36,25 +36,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\aksha\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\a00c0d0aace4a2709fb97ecb25492297\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2eee9bde72e1485991bd3382e4469752\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\e99077b4502702205c91ed9295854f32\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
 	package
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:5:5-18:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\87477348946ff83f07b2981ad5a03ed8\AndroidManifest.xml:9:5-20
@@ -66,37 +68,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ak
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\feee37356650b0af44d415fa0ab7b3c0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:8:9-41
-	android:roundIcon
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:9:9-54
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:8:9-41
+	tools:ignore
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:11:9-60
 	android:icon
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:7:9-43
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:11:9-40
-activity#com.developer.kinda.mtextfield.MainActivity
-ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:10:9-40
+activity#com.developer.mtextfield.field.MainActivity
+ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:12:9-17:20
 	android:name
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:12:19-77
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:12:19-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:14:17-69
+ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:14:25-66
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:16:17-77
+ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml:16:27-74
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-MERGED from [:library] E:\GithubProjects\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:library] E:\GithubProjects\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+MERGED from [:library] E:\GithubProjects\kindaLibraries\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] E:\GithubProjects\kindaLibraries\mtextfield\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\444695b4385df6a7e92afef7968becc8\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2322242f10d37b95044b48fdbe633d22\AndroidManifest.xml:20:5-44
@@ -159,13 +161,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aksha\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\2eee9bde72e1485991bd3382e4469752\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\e99077b4502702205c91ed9295854f32\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\aksha\.gradle\caches\transforms-2\files-2.1\e99077b4502702205c91ed9295854f32\AndroidManifest.xml:20:5-44
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		ADDED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
-		INJECTED from E:\GithubProjects\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		ADDED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\GithubProjects\kindaLibraries\mtextfield\sample\src\main\AndroidManifest.xml

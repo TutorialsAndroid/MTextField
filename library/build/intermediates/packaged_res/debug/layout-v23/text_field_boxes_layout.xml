@@ -20,7 +20,7 @@
         android:layout_height="match_parent"
         android:layout_toEndOf="@+id/text_field_boxes_imageView">
 
-        <com.developer.kinda.ClipToBoundsView
+        <com.developer.mtextfield.ClipToBoundsView
             android:id="@+id/text_field_boxes_panel"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
@@ -124,7 +124,7 @@
 
             </RelativeLayout>
 
-        </com.developer.kinda.ClipToBoundsView>
+        </com.developer.mtextfield.ClipToBoundsView>
 
         <RelativeLayout
             android:id="@+id/text_field_boxes_bottom"

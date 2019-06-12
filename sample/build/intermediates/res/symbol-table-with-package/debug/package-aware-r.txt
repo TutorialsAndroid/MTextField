@@ -1,4 +1,4 @@
-com.developer.kinda.mtextfield
+com.developer.mtextfield.field
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1391,7 +1391,6 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout text_field_boxes_layout
 mipmap ic_launcher
-mipmap ic_launcher_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.developer.kinda.test" >
+    package="com.developer.mtextfield.test" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -10,8 +10,8 @@
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.developer.kinda.test"
-        android:targetPackage="com.developer.kinda.test" />
+        android:label="Tests for com.developer.mtextfield.test"
+        android:targetPackage="com.developer.mtextfield.test" />
 
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"

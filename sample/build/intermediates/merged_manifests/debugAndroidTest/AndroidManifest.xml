@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.developer.kinda.mtextfield.test">
+    package="com.developer.mtextfield.field.test">
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="29" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="androidx.test.runner.AndroidJUnitRunner"
-                     android:targetPackage="com.developer.kinda.mtextfield"
+                     android:targetPackage="com.developer.mtextfield.field"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.developer.kinda.mtextfield"/>
+                     android:label="Tests for com.developer.mtextfield.field"/>
 </manifest>
