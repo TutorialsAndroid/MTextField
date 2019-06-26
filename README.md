@@ -9,6 +9,8 @@ A new Material Design text field that comes in a box, based on [Google Material 
 [![](https://jitpack.io/v/TutorialsAndroid/MTextField.svg)](https://jitpack.io/#TutorialsAndroid/MTextField)
 `Version 16.4.19 is deprecated use latest version v4.0.19`
 
+`Latest version of this library is migrated to androidx`
+
 ## Sample Screen
 
 ![](https://github.com/TutorialsAndroid/MTextField/blob/master/art/device-2019-04-16-132403.png)
