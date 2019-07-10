@@ -11,6 +11,9 @@ A new Material Design text field that comes in a box, based on [Google Material 
 
 `Latest version of this library is migrated to androidx`
 
+## Download My Kinda App. A new way to debate on the topic
+[![](https://github.com/TutorialsAndroid/Spoti/blob/master/art/google-play-badge.png)](https://bit.ly/kindadownload)
+
 ## Sample Screen
 
 ![](https://github.com/TutorialsAndroid/MTextField/blob/master/art/device-2019-04-16-132403.png)
