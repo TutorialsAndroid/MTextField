@@ -11,6 +11,10 @@ A new Material Design text field that comes in a box, based on [Google Material 
 
 `Latest version of this library is migrated to androidx`
 
+## Download Our New App
+
+[Cocktail Friendship App](https://play.google.com/store/apps/details?id=developer.cocktail)
+
 ## Sample Screen
 
 ![](https://github.com/TutorialsAndroid/MTextField/blob/master/art/device-2019-04-16-132403.png)
