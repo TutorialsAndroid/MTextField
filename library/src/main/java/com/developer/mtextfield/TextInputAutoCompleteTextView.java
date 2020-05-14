@@ -8,6 +8,9 @@ import android.view.ViewParent;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputConnection;
 
+/**
+ * @author TutorialsAndroid
+ */
 class TextInputAutoCompleteTextView extends AppCompatAutoCompleteTextView {
 
     public TextInputAutoCompleteTextView(Context context) {

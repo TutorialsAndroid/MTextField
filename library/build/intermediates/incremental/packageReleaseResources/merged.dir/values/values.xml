@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="A400red">#ff1744</color>
+    <color name="per06black">#06000000</color>
+    <color name="per10white">#0affffff</color>
+    <color name="per42black">#2a000000</color>
+    <color name="per50white">#32ffffff</color>
+    <color name="per54black">#72000000</color>
+    <color name="per70white">#46ffffff</color>
+    <dimen name="bottom_line_height">2dp</dimen>
+    <dimen name="bottom_marginTop">8dp</dimen>
+    <dimen name="clear_button_min_height">40dp</dimen>
+    <dimen name="clear_button_min_width">40dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+    <dimen name="counter_text_size">12sp</dimen>
+    <dimen name="dense_bottom_marginTop">4dp</dimen>
+    <dimen name="dense_clear_button_min_height">38dp</dimen>
+    <dimen name="dense_clear_button_min_width">38dp</dimen>
+    <dimen name="dense_editTextLayout_padding_top">16dp</dimen>
+    <dimen name="dense_edittext_text_size">16sp</dimen>
+    <dimen name="dense_end_icon_min_height">38dp</dimen>
+    <dimen name="dense_end_icon_min_width">38dp</dimen>
+    <dimen name="dense_label_idle_margin_top">16dp</dimen>
+    <dimen name="editTextLayout_padding_bottom">8dp</dimen>
+    <dimen name="editTextLayout_padding_top">20dp</dimen>
+    <dimen name="edittext_text_size">18sp</dimen>
+    <dimen name="end_icon_min_height">40dp</dimen>
+    <dimen name="end_icon_min_width">40dp</dimen>
+    <dimen name="helper_marginEnd">8dp</dimen>
+    <dimen name="helper_text_size">12sp</dimen>
+    <dimen name="icon_signifier_height">24dp</dimen>
+    <dimen name="icon_signifier_marginEnd">16dp</dimen>
+    <dimen name="icon_signifier_marginTop">20dp</dimen>
+    <dimen name="icon_signifier_width">24dp</dimen>
+    <dimen name="label_active_margin_top">8dp</dimen>
+    <dimen name="label_idle_margin_top">20dp</dimen>
+    <dimen name="label_space_height">8dp</dimen>
+    <dimen name="label_text_size">16sp</dimen>
+    <dimen name="upper_panel_paddingBottom">5dp</dimen>
+    <dimen name="upper_panel_paddingEnd">16dp</dimen>
+    <dimen name="upper_panel_paddingEnd_small">8dp</dimen>
+    <dimen name="upper_panel_paddingStart">16dp</dimen>
+    <string name="app_name">MTextField</string>
+    <string formatted="false" name="counter_label_text_constructor">%s%s%s%s</string>
+    <string name="icon">icon</string>
+    <declare-styleable name="ExtendedEditText">
+
+        <!--Texts-->
+        <attr format="string" name="prefix"/>
+        <attr format="string" name="suffix"/>
+
+        <!--Colors-->
+        <attr format="color" name="prefixTextColor"/>
+        <attr format="color" name="suffixTextColor"/>
+
+    </declare-styleable>
+    <declare-styleable name="TextFieldBoxes">
+
+        <!--Texts-->
+        <attr format="string" name="labelText"/>
+        <attr format="string" name="helperText"/>
+
+        <!--Colors-->
+        <attr format="color" name="textHelperColor"/>
+        <attr format="color" name="textCounterColor"/>
+        <attr format="color" name="errorColor"/>
+        <attr format="color" name="primaryColor"/>
+        <attr format="color" name="secondaryColor"/>
+        <attr format="color" name="panelBackgroundColor"/>
+
+        <!--Characters counter-->
+        <attr format="integer" name="maxCharacters"/>
+        <attr format="integer" name="minCharacters"/>
+
+        <!--Others-->
+        <attr format="boolean" name="enabled"/>
+        <attr format="reference" name="iconSignifier"/>
+        <attr format="reference" name="endIcon"/>
+        <attr format="boolean" name="isResponsiveIconColor"/>
+        <attr format="boolean" name="hasClearButton"/>
+        <attr format="boolean" name="hasFocus"/>
+        <attr format="boolean" name="alwaysShowHint"/>
+        <attr format="boolean" name="useDenseSpacing"/>
+
+        <!-- Set whether to automaticavalidateErrordate, or only on demand
+               @see {@link TextFieldBoxes#setManualValidateError(boolean) } -->
+        <attr format="boolean" name="manualValidateError"/>
+
+    </declare-styleable>
+</resources>

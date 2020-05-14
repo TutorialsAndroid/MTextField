@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    }
+]

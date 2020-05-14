@@ -5,6 +5,9 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author TutorialsAndroid
+ */
 class CompositeListener implements View.OnFocusChangeListener {
 
     private final List<View.OnFocusChangeListener> registeredListeners = new ArrayList<>();

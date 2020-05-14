@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\852d4a5e7c416d9545d6d288413ff474\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_clear_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_ic_arrow_drop_up.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_checked_circle.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_ic_arrow_drop_down.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_arrow_down_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\test_custom_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\test_custom_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_dialog_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_popupmenu_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_dropdown_arrow.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\7c7c528d6db4e44f970decf38138cb5b\\jetified-appcompat-resources-1.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\box.png",
+        "source": "D:\\Projects\\MTextField-master\\library\\src\\main\\res\\drawable\\box.png"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_clear_circle_black_24dp.png",
+        "source": "D:\\Projects\\MTextField-master\\library\\src\\main\\res\\drawable\\ic_clear_circle_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\852d4a5e7c416d9545d6d288413ff474\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_popupmenu_background_dark.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_popupmenu_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material_anim.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mic_black_24dp.png",
+        "source": "D:\\Projects\\MTextField-master\\library\\src\\main\\res\\drawable\\ic_mic_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material_anim.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\bg.xml",
+        "source": "D:\\Projects\\MTextField-master\\library\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\852d4a5e7c416d9545d6d288413ff474\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_calendar_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_ic_cancel.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\852d4a5e7c416d9545d6d288413ff474\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\84cd812e8c7a99c0c19abad8621b5b90\\appcompat-1.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\mtrl_ic_error.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\mtrl_ic_error.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_edit_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projects\\MTextField-master\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_arrow_up_black_24dp.xml",
+        "source": "C:\\Users\\tkdco\\.gradle\\caches\\transforms-2\\files-2.1\\a5e1cdf764e924574ec654aadff5bc2b\\material-1.1.0\\res\\drawable\\ic_menu_arrow_up_black_24dp.xml"
+    }
+]

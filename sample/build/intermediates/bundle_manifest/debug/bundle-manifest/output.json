@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":6,"versionName":"5.0.19","enabled":true,"outputFile":"sample-debug.apk","fullName":"debug","baseName":"debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.developer.mtextfield.field","split":"","minSdkVersion":"19"}}]

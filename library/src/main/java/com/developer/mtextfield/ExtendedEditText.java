@@ -11,6 +11,9 @@ import android.graphics.drawable.Drawable;
 import androidx.annotation.NonNull;
 import android.util.AttributeSet;
 
+/**
+ * @author TutorialsAndroid
+ */
 public class ExtendedEditText extends TextInputAutoCompleteTextView {
 
     private int DEFAULT_TEXT_COLOR;

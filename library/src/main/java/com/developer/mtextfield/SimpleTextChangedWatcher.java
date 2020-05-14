@@ -2,6 +2,9 @@ package com.developer.mtextfield;
 
 import android.text.TextWatcher;
 
+/**
+ * @author TutorialsAndroid
+ */
 public interface SimpleTextChangedWatcher {
     /**
      * Called after a {@link TextWatcher} observes a text change event

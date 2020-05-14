@@ -31,6 +31,9 @@ import android.widget.TextView;
 import java.lang.reflect.Field;
 import java.util.Objects;
 
+/**
+ * @author TutorialsAndroid
+ */
 public class TextFieldBoxes extends FrameLayout {
 
     /**
@@ -398,32 +401,23 @@ public class TextFieldBoxes extends FrameLayout {
 
         final FrameLayout mainBody = this;
 
-        this.panel.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if (!isActivated()) activate(true);
-                setHasFocus(true);
-                inputMethodManager.showSoftInput(editText, InputMethodManager.SHOW_IMPLICIT);
-                mainBody.performClick();
-            }
+        this.panel.setOnClickListener(v -> {
+            if (!isActivated()) activate(true);
+            setHasFocus(true);
+            inputMethodManager.showSoftInput(editText, InputMethodManager.SHOW_IMPLICIT);
+            mainBody.performClick();
         });
 
-        this.iconImageButton.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if (!isActivated()) activate(true);
-                setHasFocus(true);
-                inputMethodManager.showSoftInput(editText, InputMethodManager.SHOW_IMPLICIT);
-                mainBody.performClick();
-            }
+        this.iconImageButton.setOnClickListener(v -> {
+            if (!isActivated()) activate(true);
+            setHasFocus(true);
+            inputMethodManager.showSoftInput(editText, InputMethodManager.SHOW_IMPLICIT);
+            mainBody.performClick();
         });
 
-        this.editText.setDefaultOnFocusChangeListener(new OnFocusChangeListener() {
-            @Override
-            public void onFocusChange(View view, boolean b) {
-                if (b) setHasFocus(true);
-                else setHasFocus(false);
-            }
+        this.editText.setDefaultOnFocusChangeListener((view, b) -> {
+            if (b) setHasFocus(true);
+            else setHasFocus(false);
         });
 
         this.editText.addTextChangedListener(new TextWatcher() {
@@ -462,12 +456,7 @@ public class TextFieldBoxes extends FrameLayout {
             }
         });
 
-        this.clearButton.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                editText.setText("");
-            }
-        });
+        this.clearButton.setOnClickListener(view -> editText.setText(""));
     }
 
     private void handleAttributes(Context context, AttributeSet attrs) {
