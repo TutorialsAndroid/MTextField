@@ -15,9 +15,6 @@ A new Material Design text field that comes in a box, based on [Google Material 
 
 `Latest version of this library is migrated to androidx`
 
-## Hire-Me
-
-<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit http://asm.life
 
 ## And Don't Forget To Follow Me On Instagram
 
