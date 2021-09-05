@@ -18,7 +18,7 @@ A new Material Design text field that comes in a box, based on [Google Material 
 
 ## And Don't Forget To Follow Me On Instagram
 
-<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshaysunilmasram 
+<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshay_sunil_masram
     
 
 ## Sample Screen
