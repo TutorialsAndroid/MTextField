@@ -2,24 +2,18 @@
 
 # MTextField ![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/MTextField/badge.svg?style=flat-squaretargetFile=library%2Fbuild.gradle)](https://snyk.io/test/github/TutorialsAndroid/MTextField?targetFile=library%2Fbuild.gradle) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MTextField-blue.svg?style=plastic)](https://android-arsenal.com/details/1/7627) [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
-[`Heatic Debate App Download Now`](https://play.google.com/store/apps/details?id=com.asm.heatic)
-
-
 A new Material Design text field that comes in a box, based on [Google Material Design guidelines]
 
 **Library available on JitPack.io**
 
 [![](https://jitpack.io/v/TutorialsAndroid/MTextField.svg)](https://jitpack.io/#TutorialsAndroid/MTextField)
-`Version 16.4.19 is deprecated use latest version v5.0.19`
+`Version 16.4.19 is deprecated use latest version v4.0.19`
 
 `Latest version of this library is migrated to androidx`
 
+## Hire-Me
 
-## And Don't Forget To Follow Me On Instagram
-
-<p align="center">Follow me on instagram to stay up-to-date https://instagram.com/akshay.sunil.masram.1998
-    
+<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit http://asm.life
 
 ## Sample Screen
 
@@ -39,7 +33,7 @@ allprojects {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.TutorialsAndroid:MTextField:v5.0.19'
+    implementation 'com.github.TutorialsAndroid:MTextField:v4.0.19'
 }
 ```
 
